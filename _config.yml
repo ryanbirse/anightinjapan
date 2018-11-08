@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: ryan@studiocollate.co.uk
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: ryanbirse
 github_username: ryanbirse
 markdown: kramdown
